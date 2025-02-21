@@ -1,0 +1,5 @@
+{
+    "call_user": "Call user's phone number",
+    "split_answered_by": "Is it answered by a person?",
+    "http_call_no_answer": "Call backend to log call not picked by a person"
+}
